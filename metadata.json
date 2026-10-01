@@ -1,0 +1,6 @@
+{
+  "name": "NIMELSSA ABSU Election Portal",
+  "description": "Online voter registration, accreditation, live voting, and certified election results system for NIMELSSA Abia State University Chapter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
